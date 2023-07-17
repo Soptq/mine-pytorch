@@ -20,7 +20,7 @@ setuptools.setup(
         'pytorch_lightning==1.9',
         'matplotlib==3.7.2',
         'numpy==1.25.0',
-        'tqdm==4.40.2',
+        'tqdm==4.57.0',
         'torch==1.13.1',
         'torchvision==0.14.1',
         'scikit_learn==1.1.3',
