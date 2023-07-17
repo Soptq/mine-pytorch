@@ -18,12 +18,12 @@ setuptools.setup(
     python_requires='>=3.6',
     install_requires = [
         'pytorch_lightning==0.6.0',
-        'matplotlib==3.1.2',
-        'numpy==1.17.4',
+        'matplotlib==3.7.2',
+        'numpy==1.25.0',
         'tqdm==4.40.2',
-        'torch==1.3.1',
-        'torchvision==0.4.2',
-        'scikit_learn==0.22.1',
+        'torch==1.13.1',
+        'torchvision==0.14.1',
+        'scikit_learn==1.1.3',
         'pillow<7'
     ]
 )
